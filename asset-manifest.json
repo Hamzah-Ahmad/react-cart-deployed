@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-cart-deployed/static/css/main.1cc7f44b.chunk.css",
+    "main.js": "/react-cart-deployed/static/js/main.ca399bae.chunk.js",
+    "main.js.map": "/react-cart-deployed/static/js/main.ca399bae.chunk.js.map",
+    "runtime-main.js": "/react-cart-deployed/static/js/runtime-main.1f5d574f.js",
+    "runtime-main.js.map": "/react-cart-deployed/static/js/runtime-main.1f5d574f.js.map",
+    "static/css/2.7aa6f31f.chunk.css": "/react-cart-deployed/static/css/2.7aa6f31f.chunk.css",
+    "static/js/2.63918d2d.chunk.js": "/react-cart-deployed/static/js/2.63918d2d.chunk.js",
+    "static/js/2.63918d2d.chunk.js.map": "/react-cart-deployed/static/js/2.63918d2d.chunk.js.map",
+    "index.html": "/react-cart-deployed/index.html",
+    "precache-manifest.9e874358446e7e172fba46555c1f6cf7.js": "/react-cart-deployed/precache-manifest.9e874358446e7e172fba46555c1f6cf7.js",
+    "service-worker.js": "/react-cart-deployed/service-worker.js",
+    "static/css/2.7aa6f31f.chunk.css.map": "/react-cart-deployed/static/css/2.7aa6f31f.chunk.css.map",
+    "static/css/main.1cc7f44b.chunk.css.map": "/react-cart-deployed/static/css/main.1cc7f44b.chunk.css.map",
+    "static/media/blue-t-shirt.jpg": "/react-cart-deployed/static/media/blue-t-shirt.51ea43b9.jpg",
+    "static/media/bright-purple-t-shirt.jpg": "/react-cart-deployed/static/media/bright-purple-t-shirt.8fa9012b.jpg",
+    "static/media/cobalt-blue-t-shirt.jpg": "/react-cart-deployed/static/media/cobalt-blue-t-shirt.1ead1aa2.jpg",
+    "static/media/green-t-shirt.jpg": "/react-cart-deployed/static/media/green-t-shirt.717bb2ab.jpg",
+    "static/media/grey-t-shirt.jpg": "/react-cart-deployed/static/media/grey-t-shirt.d9a81838.jpg",
+    "static/media/light-green-t-shirt.jpg": "/react-cart-deployed/static/media/light-green-t-shirt.96c2084a.jpg",
+    "static/media/purple-t-shirt.jpg": "/react-cart-deployed/static/media/purple-t-shirt.ee4da645.jpg",
+    "static/media/red-t-shirt.jpg": "/react-cart-deployed/static/media/red-t-shirt.b4bb683d.jpg",
+    "static/media/teal-t-shirt.jpg": "/react-cart-deployed/static/media/teal-t-shirt.fe47325c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f5d574f.js",
+    "static/css/2.7aa6f31f.chunk.css",
+    "static/js/2.63918d2d.chunk.js",
+    "static/css/main.1cc7f44b.chunk.css",
+    "static/js/main.ca399bae.chunk.js"
+  ]
+}
